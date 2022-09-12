@@ -45,3 +45,15 @@
 .national-right {
     margin-left: 40px;
 }
+
+fieldset {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 30px 100px 30px;
+}
+
+form {
+    margin: 15px;
+    padding: 15px;
+}
